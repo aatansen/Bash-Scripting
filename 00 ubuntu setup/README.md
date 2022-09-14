@@ -92,12 +92,6 @@ Login to new created user
 su spidey
 ```
 
-Go back to root user
-
-```bash
-exit
-```
-
 ## Setup VNC:
 
 ```bash
